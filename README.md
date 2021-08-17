@@ -1,3 +1,7 @@
+Juan Manuel Pérez Sánchez - jm.perezs1@unaindes.edu.co - 202021827
+
+Nicolas Camargo Prieto - n.camargop@uniandes.edu.co - 202020782
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
