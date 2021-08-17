@@ -1,4 +1,5 @@
 Juan Manuel Pérez Sánchez - jm.perezs1@unaindes.edu.co - 202021827
+
 Nicolas Camargo Prieto - n.camargop@uniandes.edu.co - 
 
 #ISIS1225 - Estructura de un proyecto
