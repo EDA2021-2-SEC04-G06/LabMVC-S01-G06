@@ -79,7 +79,6 @@ while True:
     elif int(inputs[0]) == 3:
         print("Cargando los Tags de Libros...")
 
-
     else:
         sys.exit(0)
 sys.exit(0)
